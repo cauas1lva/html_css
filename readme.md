@@ -1,7 +1,7 @@
 # ordem de comandos para novas atualizações...
 
 
-USAR OS SEGUINTES COMANDOS SE TIVER CONFIGURADO
+## USAR OS SEGUINTES COMANDOS SE TIVER CONFIGURADO
 
 1 - git status | comando para ver o que foi alterado
 
@@ -13,7 +13,7 @@ USAR OS SEGUINTES COMANDOS SE TIVER CONFIGURADO
 
 
 
-USAR OS SEGUITNES COMANDOS SE NAO TIVER CONFIGURADO
+## USAR OS SEGUITNES COMANDOS SE NAO TIVER CONFIGURADO
 
 
 1 - git init | para iniciar o git
