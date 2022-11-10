@@ -1,0 +1,60 @@
+* {
+    background-color: blanchedalmond;
+}
+h1 {
+    color:darkolivegreen;
+    
+}
+h2 {
+    color: darkolivegreen;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p {
+    justify-content: center;
+    color:darkolivegreen;
+    background-color: cornsilk;
+    text-align: center;
+}
+h3 {
+    color:cadetblue;
+    justify-content: center;
+}
+.botao:hover {
+    color:black;
+    background-color:bisque;
+    padding: 10px;
+    margin: 10px;
+}
+.bt{
+    color:black;
+    background-color:bisque;
+    padding: 10px;
+    margin: 10px;
+}
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+nav {
+    display:flex;
+    flex-direction:row;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid burlywood;
+}
+img {
+    max-width: 100px;
+    max-height: 100px;
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+ul li {
+    margin: 20px
+}
